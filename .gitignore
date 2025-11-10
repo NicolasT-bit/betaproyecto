@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+*.user
+*.swp
+*.suo
+*.DS_Store
+*.vscode/
+*.env
+appsettings*.json
