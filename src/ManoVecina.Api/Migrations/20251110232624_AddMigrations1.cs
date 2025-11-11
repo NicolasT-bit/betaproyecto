@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ManoVecina.Api.Migrations
 {
     /// <inheritdoc />
-    public partial class AddMigration1 : Migration
+    public partial class AddMigrations1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
